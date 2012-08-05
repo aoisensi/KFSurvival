@@ -1,3 +1,7 @@
 name: KFSurvival
 main: info.aoisensi.KFSurvival.KFSurvival
 version: 0.0.1
+commands:
+  kfr:
+    description: This command is ready for the start of the game.
+  test:
