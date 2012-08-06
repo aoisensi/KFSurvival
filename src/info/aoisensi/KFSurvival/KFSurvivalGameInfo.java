@@ -33,4 +33,11 @@ public class KFSurvivalGameInfo {
 	public static void Start() {
 		isgamestart = true;
 	}
+	public static void Reset() {
+		onthegame.clear();
+	}
+	
+	public static void End() {
+		isgamestart = false;
+	}
 }
